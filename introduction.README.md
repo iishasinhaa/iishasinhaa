@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iishasinhaa
+- 👀 I’m interested in learning new ways to create aspiring projects
+- 🌱 I’m currently learning javascript from whitehat.jr which really hasn't been helping a lot :(
+- 💞️ I’m looking to collaborate on any projects
+- 📫 How to reach me: just mail me at theishaxsinha@gmail.com
